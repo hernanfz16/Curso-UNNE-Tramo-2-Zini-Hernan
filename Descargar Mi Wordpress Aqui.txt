@@ -1,0 +1,3 @@
+Subi el Wordpress a google drive porque GitHub no me permitia subir archivos tan pesados, me dajaba solo hasta 25mb y mi wordpress supera los 100mb.
+
+Link: https://drive.google.com/file/d/1dIX7tiPVieqjHlF8W2mMDBeteLmxWOIL/view?usp=sharing
