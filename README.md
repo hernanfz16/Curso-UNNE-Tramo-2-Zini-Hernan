@@ -1,6 +1,7 @@
 # Curso-UNNE-Tramo-2-Zini-Hernan
 
 Instalación:
+-Descomprimir el archivo wordpress.rar
 -Copiar la carpeta Wordpress a la siguiente ruta: C:\xampp\htdocs
 -En  phpMyAdmin crear una base de datos llamada: hernanfz_tienda
 -Importar a la base  de datos creada el archivos hernanfz_tienda.sql el cual se encuentra en la carpeta "Base de Datos" en el repositorio.
